@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
 
 I'm Benson Gitau, a software developer driven by the power of technology to create positive change. With a strong foundation in banking, I'm passionate about addressing financial inclusion challenges and streamlining business processes. Beyond finance, I'm committed to leveraging technology as a tool to solve global problems and build a better future.
 
