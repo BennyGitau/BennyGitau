@@ -25,6 +25,9 @@ I'm Benson Gitau, a software developer driven by the power of technology to crea
 
 ## 🌟 Projects
 
+### Recipehaven
+Recipe Haven is a community-driven platform for sharing and exploring recipes. Users can create accounts, upload recipes, and interact with others' recipes through bookmarking, rating, commenting, and sharing on social media. The platform offers advanced search and filtering options for finding recipes easily.
+
 ### LetsWrite
 A blog application where users can create and join channels to post blogs. Built with React, Flask, and SQLAlchemy, featuring JWT authentication and styled with Tailwind CSS. The app supports both light and dark modes.
 
